@@ -1,7 +1,6 @@
-<a href="https://www.facebook.com/mirhussainmurtaza/">
+<a href="https://github.com/nhnaahid/nhnaahid/blob/main/cover.png">
 <img src="https://github.com/nhnaahid/nhnaahid/blob/main/cover.png" />
 </a>
-## Hi there 👋
 
 ## :chart_with_upwards_trend: Current Stats
 
