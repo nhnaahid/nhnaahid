@@ -5,12 +5,6 @@
 ## :man_office_worker: About Me
 <p>I am an aspiring Web Developer proficient in competitive programming and different web development technologies like react.js, node.js, mongodb etc. I am passionate about creating efficient and scalable web applications, I completed my post-graduation in Computer Science and Engineering. Eager to begin my professional journey, I am dedicated to continuous learning and look forward to contributing to innovative projects and collaborating with talented professionals.</p>
 
-
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=nhnaahid&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
-
 ## :computer: Technologies that I know
 
 <br>
