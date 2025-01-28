@@ -5,6 +5,8 @@
 ## :man_office_worker: About Me
 <p>I am an aspiring Web Developer proficient in competitive programming and different web development technologies like react.js, node.js, mongodb etc. I am passionate about creating efficient and scalable web applications, I completed my post-graduation in Computer Science and Engineering. Eager to begin my professional journey, I am dedicated to continuous learning and look forward to contributing to innovative projects and collaborating with talented professionals.</p>
 
+<br>
+
 ## :computer: Technologies that I know
 
 <br>
