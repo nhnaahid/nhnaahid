@@ -36,7 +36,7 @@
 </p>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://i.ibb.co.com/TxX7qPqg/nextjs.png"/>
+<img src="https://i.ibb.co.com/Gfqm1rcq/nextjs.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
 </p>
