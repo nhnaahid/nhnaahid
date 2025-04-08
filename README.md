@@ -1,9 +1,14 @@
-<img src="https://github.com/nhnaahid/nhnaahid/blob/main/cover1.png" />
+<h1 align="center">Hi 👋, I'm Nahid</h1>
+
+<h3 align="center">A passionate Web Developer from Dhaka, Bangladesh</h3>
+<br>
+
+<p align="center">Aspiring Web Developer with a strong foundation in competitive programming and web technologies like React.js, Node.js, and MongoDB. Passionate about building efficient, scalable web apps. Armed with a post-grad degree in Computer Science & Engineering, I'm eager to kick-start my career, keep learning, and contribute to impactful, innovative projects alongside talented teams.</p>
+<br>
+
+<a  target="blank"> <img src="https://github.com/nhnaahid/nhnaahid/blob/main/cover1.png" /> </a>
 
 <p> <a href="https://www.linkedin.com/in/nahidiu45/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.facebook.com/nazmulhasan.nahid.395/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>  <a href="https://www.instagram.com/naazmul.nahid/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
-
-## :man_office_worker: About Me
-<p>I am an aspiring Web Developer proficient in competitive programming and different web development technologies like react.js, node.js, mongodb etc. I am passionate about creating efficient and scalable web applications, I completed my post-graduation in Computer Science and Engineering. Eager to begin my professional journey, I am dedicated to continuous learning and look forward to contributing to innovative projects and collaborating with talented professionals.</p>
 
 <br>
 
