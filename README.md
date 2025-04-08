@@ -12,6 +12,18 @@
 
 <br>
 
+- 🌱 I’m currently learning **NEXT JS**
+
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-nhnahid.web.app/)
+
+- 💬 Ask me about **React , Next JS, Tailwind , MongoDB , Express JS , Node JS , JavaScript , CSS , HTML, C/C++, DSA, MySQL**
+
+- 📫 Reach Me Here **nhnahid.iu@gmail.com**
+
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1cLW5csEPbEQXkNqzYwSVHFUa3i-LUCNl/view?usp=sharing)
+
+<br>
+
 ## :computer: Technologies that I know
 
 <br>
