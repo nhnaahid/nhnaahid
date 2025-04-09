@@ -38,8 +38,6 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
 <img src="https://i.ibb.co.com/bgYjktHQ/nextjs.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
-<img src="https://i.ibb.co.com/Df4VRSzb/figma.png"/>
 </p>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
@@ -47,7 +45,14 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 <img src="https://i.ibb.co.com/21dv6n5m/jwt.png"/>
 <img src="https://i.ibb.co.com/TMYfZgCs/rest.png"/>
-</p><br/>
+</p>
+<p align="center">
+<img src="https://i.ibb.co.com/Df4VRSzb/figma.png"/>
+<img src="https://i.ibb.co.com/LdyJgSPL/githubb.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+</p>
+
+<br/>
 
 ## <picture> <img src = "https://github.com/younusFoysal/younusFoysal/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
