@@ -37,7 +37,7 @@
 <p align="center">
 <img src="https://github.com/nhnaahid/nhnaahid/blob/main/images/skills/react.png"/>
 <img src="https://github.com/nhnaahid/nhnaahid/blob/main/images/skills/nextjs.png"/>
-<img src="hhttps://github.com/nhnaahid/nhnaahid/blob/main/images/skills/tailwind.png"/>
+<img src="https://github.com/nhnaahid/nhnaahid/blob/main/images/skills/tailwind.png"/>
 </p>
 <p align="center">
 <img src="https://github.com/nhnaahid/nhnaahid/blob/main/images/skills/node.png"/>
