@@ -55,7 +55,7 @@
 
 <br/>
 
-## <picture> <img src = "https://github.com/nhnaahid/nhnaahid/blob/main/images/others/statistics.gif" width = 50px>  </picture> Github Stats
+## <picture align="center"> <img src = "https://github.com/nhnaahid/nhnaahid/blob/main/images/others/statistics.gif" width = 50px>  </picture> Github Stats
 
 <br>
 
