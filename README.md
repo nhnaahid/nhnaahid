@@ -28,34 +28,34 @@
 
 <br>
 <p align="center">
-<img src="https://i.ibb.co.com/Y4mGKv1F/HTML.png"/>
-<img src="https://i.ibb.co.com/MmBH9Q1/css.png"/>
-<img src="https://i.ibb.co.com/ycxv0LpY/js.png"/>
-<img src="https://i.ibb.co.com/cK4w2Dw5/c.png"/>
-<img src="https://i.ibb.co.com/yMP8Scz/cpp.png"/>
+<img src="https://github.com/nhnaahid/nhnaahid/blob/main/images/skills/HTML.png"/>
+<img src="https://github.com/nhnaahid/nhnaahid/blob/main/images/skills/css.png"/>
+<img src="https://github.com/nhnaahid/nhnaahid/blob/main/images/skills/js.png"/>
+<img src="https://github.com/nhnaahid/nhnaahid/blob/main/images/skills/c.png"/>
+<img src="https://github.com/nhnaahid/nhnaahid/blob/main/images/skills/cpp.png"/>
 </p>
 <p align="center">
-<img src="https://i.ibb.co.com/c9yrbQW/react.png"/>
-<img src="https://i.ibb.co.com/bgYjktHQ/nextjs.png"/>
-<img src="https://i.ibb.co.com/dJsq8LyZ/tailwind.png"/>
+<img src="https://github.com/nhnaahid/nhnaahid/blob/main/images/skills/react.png"/>
+<img src="https://github.com/nhnaahid/nhnaahid/blob/main/images/skills/nextjs.png"/>
+<img src="hhttps://github.com/nhnaahid/nhnaahid/blob/main/images/skills/tailwind.png"/>
 </p>
 <p align="center">
-<img src="https://i.ibb.co.com/Ldr0JZ2D/node.png"/>
-<img src="https://i.ibb.co.com/YBX1VtHz/express.png"/>
-<img src="https://i.ibb.co.com/35xPVjnZ/mongo.png"/>
-<img src="https://i.ibb.co.com/8Df8PS7L/mysql.png"/>
-<img src="https://i.ibb.co.com/21dv6n5m/jwt.png"/>
-<img src="https://i.ibb.co.com/TMYfZgCs/rest.png"/>
+<img src="https://github.com/nhnaahid/nhnaahid/blob/main/images/skills/node.png"/>
+<img src="https://github.com/nhnaahid/nhnaahid/blob/main/images/skills/express.png"/>
+<img src="https://github.com/nhnaahid/nhnaahid/blob/main/images/skills/mongo.png"/>
+<img src="https://github.com/nhnaahid/nhnaahid/blob/main/images/skills/mysql.png"/>
+<img src="https://github.com/nhnaahid/nhnaahid/blob/main/images/skills/jwt.png"/>
+<img src="https://github.com/nhnaahid/nhnaahid/blob/main/images/skills/rest.png"/>
 </p>
 <p align="center">
-<img src="https://i.ibb.co.com/Df4VRSzb/figma.png"/>
-<img src="https://i.ibb.co.com/LdyJgSPL/githubb.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+<img src="https://github.com/nhnaahid/nhnaahid/blob/main/images/skills/figma.png"/>
+<img src="https://github.com/nhnaahid/nhnaahid/blob/main/images/skills/githubb.png"/>
+<img src="https://github.com/nhnaahid/nhnaahid/blob/main/images/skills/firebase.png"/>
 </p>
 
 <br/>
 
-## <picture> <img src = "https://github.com/younusFoysal/younusFoysal/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/nhnaahid/nhnaahid/blob/main/images/others/statistics.gif" width = 50px>  </picture> Github Stats
 
 <br>
 
