@@ -28,21 +28,22 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
+<img src="https://i.ibb.co.com/Y4mGKv1F/HTML.png"/>
+<img src="https://i.ibb.co.com/MmBH9Q1/css.png"/>
+<img src="https://i.ibb.co.com/ycxv0LpY/js.png"/>
+<img src="https://i.ibb.co.com/cK4w2Dw5/c.png"/>
+<img src="https://i.ibb.co.com/yMP8Scz/cpp.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
+<img src="https://i.ibb.co.com/c9yrbQW/react.png"/>
 <img src="https://i.ibb.co.com/bgYjktHQ/nextjs.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
+<img src="https://i.ibb.co.com/dJsq8LyZ/tailwind.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+<img src="https://i.ibb.co.com/Ldr0JZ2D/node.png"/>
+<img src="https://i.ibb.co.com/YBX1VtHz/express.png"/>
+<img src="https://i.ibb.co.com/35xPVjnZ/mongo.png"/>
+<img src="https://i.ibb.co.com/8Df8PS7L/mysql.png"/>
 <img src="https://i.ibb.co.com/21dv6n5m/jwt.png"/>
 <img src="https://i.ibb.co.com/TMYfZgCs/rest.png"/>
 </p>
