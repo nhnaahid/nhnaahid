@@ -7,6 +7,7 @@
 <br>
 
 <a  target="blank"> <img align="center" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif"   /> </a><br>
+<br>
 
 <p align="center"> <a href="https://www.linkedin.com/in/nahidiu45/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.facebook.com/nazmulhasan.nahid.395/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>  <a href="https://www.instagram.com/naazmul.nahid/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
@@ -20,7 +21,7 @@
 
 - 📫 Reach Me Here **nhnahid.iu@gmail.com**
 
-- 📄 Check out my <a target="_blank" href="https://drive.google.com/file/d/1cLW5csEPbEQXkNqzYwSVHFUa3i-LUCNl/view?usp=sharing">Resume</a>
+- 📄 Check out my <a  target="blank" href="https://drive.google.com/file/d/1cLW5csEPbEQXkNqzYwSVHFUa3i-LUCNl/view?usp=sharing">Resume</a>
 
 <br>
 
