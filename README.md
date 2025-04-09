@@ -13,7 +13,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **NEXT JS**
+- 🌱 I’m currently exploring **NEXT JS**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-nhnahid.web.app/)
 
@@ -21,7 +21,7 @@
 
 - 📫 Reach Me Here **nhnahid.iu@gmail.com**
 
-- 📄 Check out my <a href="https://drive.google.com/file/d/1cLW5csEPbEQXkNqzYwSVHFUa3i-LUCNl/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
+- 📄 Check out my <a href="https://drive.google.com/file/d/1cLW5csEPbEQXkNqzYwSVHFUa3i-LUCNl/view?usp=sharing">Resume</a>
 
 <br>
 
