@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-nhnahid.web.app/)
 
-- 💬 Ask me about **React , Next JS, Tailwind , MongoDB , Express JS , Node JS , JavaScript , CSS , HTML, C/C++, DSA, MySQL**
+- 💬 Ask me about **React , Next JS, Tailwind , MongoDB , Express JS , Node JS , JavaScript , CSS , HTML, C/C++, DSA, MySQL, OOP**
 
 - 📫 Reach Me Here **nhnahid.iu@gmail.com**
 
@@ -24,7 +24,7 @@
 
 <br>
 
-## :computer: Technologies that I know
+## :computer: My Skills
 
 <br>
 <p align="center">
@@ -45,6 +45,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p><br/>
 
+## <picture> <img src = "https://github.com/younusFoysal/younusFoysal/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <h3> 🔥 Daily Streak</h3>
 
