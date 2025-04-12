@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-nhnahid.web.app/)
 
-- 💬 Ask me about **React , Next JS, Tailwind , MongoDB , Express JS , Node JS , JavaScript , CSS , HTML, C/C++, DSA, MySQL, OOP**
+- 💬 Ask me about **React , Next JS, Tailwind , MongoDB , Express JS , Node JS , JavaScript , CSS , HTML, C/C++, DSA, MySQL**
 
 - 📫 Reach Me Here **nhnahid.iu@gmail.com**
 
