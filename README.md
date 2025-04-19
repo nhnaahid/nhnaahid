@@ -6,7 +6,7 @@
 <p align="center">Aspiring Web Developer with a strong foundation in competitive programming and web technologies like React.js, Node.js, and MongoDB. Passionate about building efficient, scalable web apps. Armed with a post-grad degree in Computer Science & Engineering, I'm eager to kick-start my career, keep learning, and contribute to impactful, innovative projects alongside talented teams.</p>
 <br>
 
-<a  target="blank"> <img align="center" src="https://github.com/nhnaahid/nhnaahid/blob/main/images/others/cover-image.gif" /> </a><br>
+<a  target="_blank"> <img align="center" src="https://github.com/nhnaahid/nhnaahid/blob/main/images/others/cover-image.gif" /> </a><br>
 <br>
 
 <p align="center"> <a href="https://www.linkedin.com/in/nahidiu45/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.facebook.com/nazmulhasan.nahid.395/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>  <a href="https://www.instagram.com/naazmul.nahid/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
@@ -21,7 +21,7 @@
 
 - 📫 Reach Me Here **nhnahid.iu@gmail.com**
 
-- 📄 Check out my <a href="https://drive.google.com/file/d/1Ed-6CRbtTq0o0Avzi-TuTo3TsMsAOvp7/view?usp=sharing">Resume</a>
+- 📄 Check out my <a target="_blank" href="https://drive.google.com/file/d/1Ed-6CRbtTq0o0Avzi-TuTo3TsMsAOvp7/view?usp=sharing">Resume</a>
 
 <br>
 
