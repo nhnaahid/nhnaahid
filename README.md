@@ -6,7 +6,7 @@
 <p align="center">Aspiring Web Developer with a strong foundation in competitive programming and web technologies like React.js, Node.js, and MongoDB. Passionate about building efficient, scalable web apps. Armed with a post-grad degree in Computer Science & Engineering, I'm eager to kick-start my career, keep learning, and contribute to impactful, innovative projects alongside talented teams.</p>
 <br>
 
-<a  target="_blank"> <img align="center" src="https://github.com/nhnaahid/nhnaahid/blob/main/images/others/gh-banner.jpg" /> </a><br>
+<a  target="_blank"> <img align="center" src="https://github.com/nhnaahid/nhnaahid/blob/main/images/others/gh-banner.jpg" style="width: 50%; height: 50%;"/> </a><br>
 <br>
 
 <p align="center"> <a href="https://www.linkedin.com/in/nhnahid/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.facebook.com/nazmulhasan.nahid.395/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>  <a href="https://www.instagram.com/naazmul.nahid/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
